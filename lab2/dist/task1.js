@@ -1,5 +1,8 @@
 "use strict";
 class Cat {
+    name;
+    move_type;
+    is_cute;
     constructor(name, move_type, is_cute) {
         this.name = name;
         this.move_type = move_type;
@@ -10,6 +13,9 @@ class Cat {
     }
 }
 class Bird {
+    name;
+    move_type;
+    is_cute;
     constructor(name, move_type, is_cute) {
         this.name = name;
         this.move_type = move_type;
@@ -20,6 +26,9 @@ class Bird {
     }
 }
 class Fish {
+    name;
+    move_type;
+    is_cute;
     constructor(name, move_type, is_cute) {
         this.name = name;
         this.move_type = move_type;

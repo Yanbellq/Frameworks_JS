@@ -1,5 +1,8 @@
 "use strict";
 class Rectangle {
+    shape_name;
+    factor;
+    params;
     constructor(shape_name, factor, params) {
         this.shape_name = shape_name;
         this.factor = factor;
@@ -30,6 +33,9 @@ console.log(rectangle.getAllResults());
 rectangle.scale(2);
 console.log(rectangle.getAllResults());
 class Triangle {
+    shape_name;
+    factor;
+    params;
     constructor(shape_name, factor, params) {
         this.shape_name = shape_name;
         this.factor = factor;
@@ -61,6 +67,9 @@ console.log(triangle.getAllResults());
 triangle.scale(2);
 console.log(triangle.getAllResults());
 class Circle {
+    shape_name;
+    factor;
+    params;
     constructor(shape_name, factor, params) {
         this.shape_name = shape_name;
         this.factor = factor;
