@@ -30,8 +30,7 @@ npm run dev
 
 Contributors names and contact info
 
-Yanbellq | Max [Hrushko Maksym]
-[@Yanbellq | Max](https://github.com/Yanbellq)
+[@Yanbellq | Max](https://github.com/Yanbellq)  [Hrushko Maksym]
 
 ## Version History
 
