@@ -24,6 +24,7 @@ module.exports = {
             directory: path.join(__dirname, '/'),
         },
         compress: true,
-        port: 3000,
+        port: 9000,
     },
+    devtool: 'source-map',
 };
